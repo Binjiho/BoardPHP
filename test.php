@@ -96,7 +96,8 @@
       }
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhEnn9dUKDqxxmPAWsi7GX2M4DdWcSqDw&libraries=places&callback=initAutocomplete"async defer>
+    <!-- key 삭제 -->
+    src="https://maps.googleapis.com/maps/api/js?key=  &libraries=places&callback=initAutocomplete"async defer>
     </script>
    
   </body>
